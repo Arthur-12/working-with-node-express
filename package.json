@@ -1,0 +1,20 @@
+{
+  "name": "notes_express",
+  "version": "1.0.0",
+  "description": "practicing with express",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Arthur"
+  ],
+  "author": "Arthur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.5"
+  }
+}
